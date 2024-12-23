@@ -1455,15 +1455,15 @@
   } */
 
   /* APRENDA CON UNA PROFESORA NATIVA */
-  .cid-ux3Lun17Tc {
+  /* .cid-ux3Lun17Tc {
     padding-top: 1rem;
     padding-bottom: 1rem;
     overflow: hidden;
     background-color: #ffffff;
-  }
-  .cid-ux3Lun17Tc .container-fluid {
+  } */
+  /* .cid-ux3Lun17Tc .container-fluid {
     padding: 0 30px;
-  }
+  } */
   @media (max-width: 768px) {
     .cid-ux3Lun17Tc .container-fluid {
       padding: 0 20px;
@@ -1505,7 +1505,7 @@
       height: auto;
     }
   }
-  .cid-ux3Lun17Tc .content-wrapper .content-wrap .mbr-desc {
+  /* .cid-ux3Lun17Tc .content-wrapper .content-wrap .mbr-desc {
     margin-bottom: 32px;
   }
   .cid-ux3Lun17Tc .content-wrapper .content-wrap .title-wrapper .mbr-section-title {
@@ -1515,7 +1515,7 @@
     display: inline-flex;
     width: 40%;
     margin-bottom: 40px;
-  }
+  } */
   @media (max-width: 992px) {
     .cid-ux3Lun17Tc .content-wrapper .content-wrap .title-wrapper .text-wrapper .mbr-text {
       margin-bottom: 20px;
@@ -1525,6 +1525,7 @@
   .cid-ux3Lun17Tc .content-wrapper .content-wrap .mbr-section-btn {
     margin-top: 20px;
   }
+  /*hace la divición de las imagenes*/
   .cid-ux3Lun17Tc .embla__slide {
     display: flex;
     justify-content: center;
@@ -1547,20 +1548,20 @@
   .cid-ux3Lun17Tc .embla__slide .slide-content {
     width: 100%;
   }
-  .cid-ux3Lun17Tc .embla__slide .slide-content .item-wrapper .item-img img {
-    height: 830px;
-    border-radius: 20px !important;
-    object-fit: cover;
-  }
+    .cid-ux3Lun17Tc .embla__slide .slide-content .item-wrapper .item-img img {
+      height: 830px;
+      border-radius: 20px !important;
+      object-fit: cover;
+    }
   @media (max-width: 992px) {
     .cid-ux3Lun17Tc .embla__slide .slide-content .item-wrapper .item-img img {
       height: 650px;
     }
   }
-  .cid-ux3Lun17Tc .embla__button--next,
+  /* .cid-ux3Lun17Tc .embla__button--next,
   .cid-ux3Lun17Tc .embla__button--prev {
     display: flex;
-  }
+  } */
   .cid-ux3Lun17Tc .embla__button {
     top: 50%;
     width: 48px;
@@ -1568,8 +1569,8 @@
     margin-top: -1.5rem;
     font-size: 18px;
     background-color: transparent !important;
-    color: #000000 !important;
-    border: 2px solid #000000 !important;
+    color: #ffff !important;
+    border: 5px solid #ffff !important;
     border-radius: 50%;
     transition: all 0.3s;
     position: absolute;
@@ -1588,16 +1589,16 @@
       display: none;
     }
   }
-  .cid-ux3Lun17Tc .embla__button:disabled {
+  /* .cid-ux3Lun17Tc .embla__button:disabled {
     cursor: default;
     display: none;
   }
   .cid-ux3Lun17Tc .embla__button:hover {
     opacity: 1 !important;
-  }
-  .cid-ux3Lun17Tc .embla__button.embla__button--prev {
+  } */
+  /* .cid-ux3Lun17Tc .embla__button.embla__button--prev {
     left: 12%;
-  }
+  } */
   @media (max-width: 1550px) {
     .cid-ux3Lun17Tc .embla__button.embla__button--prev {
       left: 30px;
@@ -1664,6 +1665,7 @@
   .cid-ux3Lun17Tc .mbr-section-btn {
     text-align: center;
   }
+/*   
   .cid-ux3Lun2SSX {
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -1837,7 +1839,10 @@
   }
   .cid-ux3Lun2SSX .list {
     color: #000000;
-  }
+  } */
+
+
+  /*VIDEOS ALUMNOS*/
   .cid-ux3Lun3VPH {
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -2008,7 +2013,7 @@
   }
   .cid-ux3Lun4Lc3 .box .mbr-media {
     position: relative;
-    height: 800px;
+    height: 500px;
     border-radius: 0 !important;
   }
   @media (max-width: 992px) {
