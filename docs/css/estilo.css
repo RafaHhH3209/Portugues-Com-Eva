@@ -2485,26 +2485,7 @@
     text-align: center;
   }
 
-  .cid-ux3Lun9GfK {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    background-color: #ffffff;
-  }
-  .cid-ux3Lun9GfK .mbr-fallback-image.disabled {
-    display: none;
-  }
-  .cid-ux3Lun9GfK .mbr-fallback-image {
-    display: block;
-    background-size: cover;
-    background-position: center center;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-  }
-  .cid-ux3Lun9GfK .container-fluid {
-    padding: 0 30px;
-  }
+  /*POR QUE ESCOGERNOS*/
   @media (max-width: 768px) {
     .cid-ux3Lun9GfK .container-fluid {
       padding: 0 20px;
@@ -2541,11 +2522,6 @@
   .cid-ux3Lun9GfK .content-wrapper .mbr-section-title {
     margin-bottom: 32px;
   }
-  .cid-ux3Lun9GfK .content-wrapper .text-wrapper .mbr-text {
-    display: inline-flex;
-    width: 40%;
-    margin-bottom: 0;
-  }
   @media (max-width: 992px) {
     .cid-ux3Lun9GfK .content-wrapper .text-wrapper .mbr-text {
       width: 100%;
@@ -2556,10 +2532,6 @@
   }
   .cid-ux3Lun9GfK .item:first-child {
     margin-bottom: 0;
-  }
-  .cid-ux3Lun9GfK .item:hover .item-wrapper .item-img img,
-  .cid-ux3Lun9GfK .item:focus .item-wrapper .item-img img {
-    transform: scale(1.05);
   }
   .cid-ux3Lun9GfK .item .item-wrapper .item-img {
     overflow: hidden;
@@ -2602,6 +2574,8 @@
   .cid-ux3Lun9GfK .card-desc {
     color: #616161;
   }
+  
+  /**/
   .cid-ux3Luna2g1 {
     padding-top: 1rem;
     padding-bottom: 1rem;
