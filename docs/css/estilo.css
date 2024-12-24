@@ -2410,26 +2410,7 @@
     color: #000000;
   }
   
-  .cid-ux3Lun8UOE {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    background-color: #ffffff;
-  }
-  .cid-ux3Lun8UOE .mbr-fallback-image.disabled {
-    display: none;
-  }
-  .cid-ux3Lun8UOE .mbr-fallback-image {
-    display: block;
-    background-size: cover;
-    background-position: center center;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-  }
-  .cid-ux3Lun8UOE .container-fluid {
-    padding: 0 30px;
-  }
+  /*COMO FUNCIONA*/
   @media (max-width: 768px) {
     .cid-ux3Lun8UOE .container-fluid {
       padding: 0 20px;
@@ -2449,18 +2430,6 @@
     .cid-ux3Lun8UOE .content-wrapper {
       padding: 46px 20px 46px;
     }
-  }
-  .cid-ux3Lun8UOE .content-wrapper .mbr-desc {
-    margin-bottom: 32px;
-  }
-  .cid-ux3Lun8UOE .content-wrapper .title-wrapper {
-    text-align: center;
-    display: flex;
-    justify-content: center;
-  }
-  .cid-ux3Lun8UOE .content-wrapper .title-wrapper .mbr-section-title {
-    width: 50%;
-    margin-bottom: 20px;
   }
   @media (max-width: 992px) {
     .cid-ux3Lun8UOE .content-wrapper .title-wrapper .mbr-section-title {
@@ -2515,6 +2484,7 @@
   .cid-ux3Lun8UOE .title-wrapper {
     text-align: center;
   }
+
   .cid-ux3Lun9GfK {
     padding-top: 1rem;
     padding-bottom: 1rem;
